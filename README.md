@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26052
+* **Problem Statement Title:** To develop an AI/ML-enabled adaptive noise cancellation (ANC) system that effectively suppresses stationary, non-stationary, and impulsive defence noises while maintaining high speech intelligibility and real-time performance on embedded hardware.
+* **Theme / Category:** Miscellaneous / Software
+* **Ministry / Organization:** DRDO
