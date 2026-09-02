@@ -35,6 +35,7 @@
 * **Problem Statement Title:** A secure, AI-powered Personal Health Companion that delivers real-time, privacy-preserving health monitoring and early warning capabilities, helping individuals recognize health risks before they become emergencies. The solution should improve resilience during heat waves, floods, pollution events, and other disasters common in India while enabling continuous health support through on-device intelligence.
 * **Theme / Category:** MedTech / BioTech / HealthTech / Hardware
 * **Ministry / Organization:** Qualcomm
+* **Presentation** https://youtu.be/HuXl1mnU4jM
 
 #### PS#2
 
