@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T091
 ### Team Details
-#### **Team Name** DraftZero <br/>
+#### **Team Name** DRAFTZERO <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
@@ -39,7 +39,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:** SIH26052
-* **Problem Statement Title:** To develop an AI/ML-enabled adaptive noise cancellation (ANC) system that effectively suppresses stationary, non-stationary, and impulsive defence noises while maintaining high speech intelligibility and real-time performance on embedded hardware.
-* **Theme / Category:** Miscellaneous / Software
-* **Ministry / Organization:** DRDO
+* **Problem Statement ID:** SIH26025
+* **Problem Statement Title:** Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, Prediction and Early Warning System for Underground Coal Mines in India 
+* **Theme / Category:** Smart Automation / Hardware
+* **Ministry / Organization:** Ministry of Coal
