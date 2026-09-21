@@ -9,14 +9,14 @@
 ### Team Details
 #### **Team Name** DRAFTZERO <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |               ROHIT LAL P P          |    CB.EN.U4ELC25129                    |     MALE            |         ELC                        |  
-|    Member 2     |     Andriea Jacob                     |     CB.EN.U4ARE25005                   |     FEMALE            |        ARE                         |  
-|    Member 3     |  Sakthi Ganapathy B                        |   CB.EN.U4ELC25152                    |       MALE          |      ELC                           |  
-|    Member 4     |       Shalini A                  |   CB.SC.U4CSE25456                     |      FEMALE           |            CSE                     |   
-|    Member 5     |        Sanjay Balaji S                 |  CB.EN.U4ELC25132                      |  MALE               |          ELC                       |  
-|    Member 6     |      Yuva Sai Harshit Grandhi                    |  CB.EN.U4ELC25050                      |     MALE      |        ELC                         |   
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Caste Category | Disability Details |
+|:---:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:--------------:|:------------------:|
+|   Team Leader   |               ROHIT LAL P P          |    CB.EN.U4ELC25129                    |     MALE            |         ELC                        | BC | None |
+|    Member 2     |     Andriea Jacob                     |     CB.EN.U4ARE25005                   |     FEMALE            |        ARE                         | OC | None |
+|    Member 3     |  Sakthi Ganapathy B                        |   CB.EN.U4ELC25152                    |       MALE          |      ELC                           | BC | None |
+|    Member 4     |       Shalini A                  |   CB.SC.U4CSE25456                     |      FEMALE           |            CSE                     | BC | None |  
+|    Member 5     |        Sanjay Balaji S                 |  CB.EN.U4ELC25132                      |  MALE               |          ELC                       | BC | None |
+|    Member 6     |      Yuva Sai Harshit Grandhi                    |  CB.EN.U4ELC25050                      |     MALE      |        ELC                         | OC | None |  
 
 #### Mentor Details
 
